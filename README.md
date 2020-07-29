@@ -3,7 +3,7 @@
 
 This repository is for the paper whose title is written above ^
 
-The paper can be found here: (currently in review, no-link avail).
+The paper can be found here: https://www.mdpi.com/2073-4433/11/6/619
 
 The algorithm theoretical basis document (ATBD) for version 06 of the GPM-DPR algorithm is found in the repository. This is archived here incase it becomes difficult to find on the GPM documentation site: https://pps.gsfc.nasa.gov/GPMprelimdocs.html
 
